@@ -4,9 +4,7 @@ These are my implementations of [OPTIMUS](https://arxiv.org/abs/2004.04092) and 
 
 The results and detailed explanations for these models can be found in my report
 
-## Supervisors
-Diego Antognini (diego.antognini@epfl.ch)
-Boi Faltings (boi.faltings@epfl.ch)
+
 
 We performed our experiments using Python version 3.6x.
 
