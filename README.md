@@ -20,7 +20,7 @@ I performed the experiments using Python version 3.6x.
 
 We provide the preprocessed text data in the following files. Please download it and add it to the required variables in colab files
 
-[inputs.pth](https://drive.google.com/file/d/1-4zCan2ZPXBQxsi-au68lyg1OxLehwrz/view?usp=sharing)
-[labels.pth](https://drive.google.com/file/d/1-D4jQ10Igk2Q400yuld6OYRAmXd1Pdo4/view?usp=sharing)
-[polarity.pth](https://drive.google.com/file/d/15HZc-E2asy5NRHUWXGZ3XVD-8XAe324x/view?usp=sharing)
+-[inputs.pth](https://drive.google.com/file/d/1-4zCan2ZPXBQxsi-au68lyg1OxLehwrz/view?usp=sharing)
+-[labels.pth](https://drive.google.com/file/d/1-D4jQ10Igk2Q400yuld6OYRAmXd1Pdo4/view?usp=sharing)
+-[polarity.pth](https://drive.google.com/file/d/15HZc-E2asy5NRHUWXGZ3XVD-8XAe324x/view?usp=sharing)
 
