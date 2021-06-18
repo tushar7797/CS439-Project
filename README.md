@@ -8,6 +8,13 @@ The results and detailed explanations for these models can be found in my report
 
 I performed the experiments using Python version 3.6x.
 
+## Packages 
+
+ - Pytorch
+ - NLTK
+ - Sacremoses
+ - boto3
+ - Transformers (hugging face)
 ## Overview of architecture
 
  - modules/ : Contains the model architectures of Optimus (VAE) and CARA
