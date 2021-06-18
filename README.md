@@ -23,5 +23,6 @@ We provide the preprocessed text data in the following files. Please download it
  - [inputs.pth](https://drive.google.com/file/d/1-4zCan2ZPXBQxsi-au68lyg1OxLehwrz/view?usp=sharing)
  - [labels.pth](https://drive.google.com/file/d/1-D4jQ10Igk2Q400yuld6OYRAmXd1Pdo4/view?usp=sharing)
  - [polarity.pth](https://drive.google.com/file/d/15HZc-E2asy5NRHUWXGZ3XVD-8XAe324x/view?usp=sharing)
+ - [Model Initialization Parameter (model_vae)](https://drive.google.com/file/d/1YgLLnl5HRESxiCy5X-7RxU_ECT7w4y5j/view?usp=sharing)
 
 
