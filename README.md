@@ -20,8 +20,8 @@ I performed the experiments using Python version 3.6x.
  - modules/ : Contains the model architectures of Optimus (VAE) and CARA
  - pytorch_transformers/ : Contains the configuration files for BERT and GPT2
  - trl/ : Contains functions and models for the Prox Policy Optimization Algorithm
- - Optimus+PPO.ipynb : contains the code to recreate the experiments related to Optimus and PPO
- - CARA.ipynb : contains the code to recreate the experiments related to CARA
+ - Optimus.ipynb : contains the code to recreate the experiments related to Optimus 
+ - CARA+PPO.ipynb : contains the code to recreate the experiments related to CARA and PPO
 
 ## Instructions to run the colab files
 
